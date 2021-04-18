@@ -1,0 +1,2 @@
+# Ogrenci Gecme Notu Hesaplama
+ 
